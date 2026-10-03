@@ -54,15 +54,30 @@ Veritabanı ve tablolar kendiliğinden oluşturulur. Tüm verileri silip sıfır
 
 ## Docker olmadan çalıştırma
 
-Gereksinimler: Python 3.12, uv, Node.js 20+, ODBC Driver 18 for SQL Server, çalışan bir SQL Server ve Qdrant (`docker compose up -d mssql qdrant` ile de başlatılabilir).
+Gereksinimler:
+
+- Python 3.12 ve Node.js 20+
+- [ODBC Driver 18 for SQL Server](https://learn.microsoft.com/sql/connect/odbc/download-odbc-driver-for-sql-server)
+- Çalışan bir SQL Server (ücretsiz Express veya Developer sürümü yeterlidir)
+- Çalışan bir Qdrant ([bağımsız sürüm](https://github.com/qdrant/qdrant/releases) veya Qdrant Cloud)
+
+`.env` dosyasında `MSSQL_HOST`, `MSSQL_PORT`, `MSSQL_USERNAME`, `MSSQL_PASSWORD` ve `VECTOR_DB_URL` değerlerini kendi kurulumunuza göre ayarlayın. Docker varsa bu iki servis `docker compose up -d mssql qdrant` ile de başlatılabilir.
+
+Backend (Windows için; Linux ve macOS'ta etkinleştirme komutu `source .venv/bin/activate` olur):
 
 ```bash
 cd src
-uv sync
-uv run python init_db.py
-cd models/db_schemes/cx_rag && uv run alembic upgrade head && cd ../../..
-uv run uvicorn main:app --port 8000
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python init_db.py
+cd models/db_schemes/cx_rag
+alembic upgrade head
+cd ../../..
+fastapi run main.py --port 8000
 ```
+
+`init_db.py` veritabanını, `alembic upgrade head` tabloları oluşturur; bu iki adım yalnızca ilk kurulumda gereklidir. uv kullananlar `pip install` yerine `uv sync` çalıştırıp komutların başına `uv run` ekleyebilir.
 
 Arayüz için ayrı bir terminalde:
 
