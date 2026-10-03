@@ -1,0 +1,26 @@
+## Model Seçimi Danışmanlığı
+cx_wash, satın alma öncesinde ücretsiz model seçimi danışmanlığı verir. Bir veya iki kişilik haneler için 7 kilogram kapasiteli CX-7000, üç veya dört kişilik haneler için 9 kilogram kapasiteli CX-9000, beş ve üzeri kişilik haneler için 10 kilogram kapasiteli ve buhar özellikli CX-9000 Pro önerilir. Danışman, hanedeki kişi sayısının yanında haftalık yıkama sıklığını, bebek veya alerjisi olan birey bulunup bulunmadığını ve makinenin konulacağı yeri de sorar. Danışmanlık, mağazalarda ve web sitesindeki canlı destek üzerinden alınabilir. Danışmanlık almak satın alma zorunluluğu doğurmaz.
+
+## Model Karşılaştırması
+Üç model arasındaki temel farklar kapasite, sıkma devri ve ek özelliklerdir. CX-7000 modeli 7 kilogram kapasiteli ve 1200 devirlidir; temel beş programı sunar. CX-9000 modeli 9 kilogram kapasiteli ve 1400 devirlidir; temel programlara ek olarak gecikmeli başlatma ve sessiz gece modu içerir. CX-9000 Pro modeli 10 kilogram kapasiteli ve 1600 devirlidir; buhar fonksiyonu, otomatik deterjan dozajlama ve mobil uygulama bağlantısı sunar. Üç modelde de aynı motor kullanılır ve motor garantisi aynıdır.
+
+## Enerji Sınıfı ve Tüketim Değerleri
+Tüm cx_wash çamaşır makineleri A enerji sınıfındadır. Eko 40-60 programında 100 yıkama için enerji tüketimi CX-7000 modelinde 47 kilovatsaat, CX-9000 modelinde 49 kilovatsaat, CX-9000 Pro modelinde 52 kilovatsaattir. Yıkama başına su tüketimi modele göre 45 ile 52 litre arasındadır. Sıkma sırasındaki ses seviyesi CX-7000 modelinde 76 desibel, CX-9000 ve CX-9000 Pro modellerinde 72 desibeldir. Bu değerler ürün üzerindeki enerji etiketinde de yer alır.
+
+## Mağazada Ürün Deneyimi
+cx_wash mağazalarında tüm modeller çalışır durumda sergilenir. Müşteriler satın almadan önce programları, ses seviyesini ve kapak mekanizmasını deneyebilir. Ürün deneyimi için randevu gerekmez. Mağaza danışmanı, müşterinin banyo veya balkon ölçülerine göre uygun modeli belirlemesine yardımcı olur. Mağazalarda ayrıca deterjan çekmecesinin ve pompa filtresinin nasıl temizleneceği uygulamalı olarak gösterilir.
+
+## Sipariş Verme Kanalları
+Sipariş üç kanaldan verilebilir: cx_wash mağazaları, web sitesi ve çağrı merkezi. Web sitesinden verilen siparişlerde sipariş onayı e-posta ve SMS ile gönderilir. Sipariş, teslimat ekibi yola çıkmadan önce ücretsiz olarak iptal edilebilir. Sipariş sırasında teslimat adresi, fatura bilgileri ve kurulum yapılacak yerin kat bilgisi istenir. Aynı siparişte birden fazla makine alınabilir.
+
+## Ödeme ve Taksit Seçenekleri
+Kredi kartı ile yapılan alışverişlerde 12 aya kadar vade farksız taksit yapılabilir. Havale veya EFT ile yapılan peşin ödemelerde yüzde 3 indirim uygulanır. Kapıda ödeme seçeneği bulunmamaktadır. Mağazalarda nakit ve banka kartı ile ödeme de kabul edilir. Fatura, teslimat sırasında basılı olarak ve ayrıca e-posta ile gönderilir. Havale ile ödemede sipariş, ödeme hesaba ulaştıktan sonra onaylanır.
+
+## Stok Durumu ve Ön Sipariş
+Web sitesinde her modelin stok durumu ürün sayfasında gösterilir. Stokta olmayan bir model için ön sipariş verilebilir. Ön siparişlerde ürün bedelinin yüzde 20'si kapora olarak alınır, kalan tutar ürün stoğa girdiğinde tahsil edilir. Ön sipariş verilen ürünlerin tahmini stoğa giriş tarihi sipariş onayında belirtilir. Müşteri, ürün stoğa girmeden önce ön siparişini iptal ederse kapora tam olarak iade edilir.
+
+## Eski Makine Geri Alım Kampanyası
+Yeni bir cx_wash çamaşır makinesi satın alan müşteriler, eski çamaşır makinelerini teslim ederek 1.500 TL indirim kazanır. Eski makinenin markası ve çalışır durumda olup olmadığı önemli değildir. Eski makine, yeni makinenin teslimatı sırasında ekip tarafından ücretsiz olarak alınır. Kampanyadan her sipariş için yalnızca bir kez yararlanılabilir. İndirim, sipariş sırasında uygulanır; eski makine teslimatta verilmezse indirim tutarı müşteriden tahsil edilir.
+
+## Kampanyaların Birleştirilmesi
+Eski makine geri alım indirimi, havale ile ödemede uygulanan yüzde 3 indirimle birleştirilebilir. Dönemsel kampanya kodları ise diğer indirimlerle birleştirilemez; müşteri en avantajlı olanı seçer. Bir siparişte yalnızca bir kampanya kodu kullanılabilir. Kampanya kodları, üzerinde belirtilen son kullanma tarihinden sonra geçersizdir.

@@ -1,0 +1,216 @@
+{
+  "info": {
+    "name": "cx_rag",
+    "description": "cx_wash bilgi asistanı API'si. Önce belgeleri yükleyin, sonra Bölümlere ayır ve Dizine ekle isteklerini çalıştırın, ardından soru sorun.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "http://localhost:8000/api/v1" },
+    { "key": "file_id", "value": "" },
+    { "key": "conversation_id", "value": "" }
+  ],
+  "item": [
+    {
+      "name": "Genel",
+      "item": [
+        {
+          "name": "Uygulama bilgisi",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/"
+          }
+        },
+        {
+          "name": "Ping",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/ping"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Belgeler",
+      "item": [
+        {
+          "name": "Belge yükle",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "const body = pm.response.json();",
+                  "if (body.file_id) {",
+                  "  pm.collectionVariables.set(\"file_id\", body.file_id);",
+                  "}"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "description": "Body sekmesinde file alanından bir .txt veya .pdf dosyası seçin. Dönen file_id koleksiyon değişkenine kaydedilir.",
+            "body": {
+              "mode": "formdata",
+              "formdata": [
+                { "key": "file", "type": "file", "src": [] }
+              ]
+            },
+            "url": "{{base_url}}/data/upload"
+          }
+        },
+        {
+          "name": "Bölümlere ayır (tüm belgeler)",
+          "request": {
+            "method": "POST",
+            "description": "Yüklenen tüm belgeleri bölümlere ayırır. do_reset 1 ise önceki bölümler silinir.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"do_reset\": 1\n}"
+            },
+            "url": "{{base_url}}/data/process"
+          }
+        },
+        {
+          "name": "Bölümlere ayır (tek belge)",
+          "request": {
+            "method": "POST",
+            "description": "Yalnızca son yüklenen belgeyi bölümlere ayırır. file_id, Belge yükle isteğinden gelir.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"file_id\": \"{{file_id}}\",\n  \"chunk_size\": 500,\n  \"overlap_size\": 100,\n  \"do_reset\": 0\n}"
+            },
+            "url": "{{base_url}}/data/process"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dizin",
+      "item": [
+        {
+          "name": "Dizine ekle",
+          "request": {
+            "method": "POST",
+            "description": "Bölümleri vektöre çevirip Qdrant'a yazar. do_reset 1 ise dizin yeniden oluşturulur.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"do_reset\": 1\n}"
+            },
+            "url": "{{base_url}}/nlp/index/push"
+          }
+        },
+        {
+          "name": "Dizin bilgisi",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/nlp/index/info"
+          }
+        },
+        {
+          "name": "Ara",
+          "request": {
+            "method": "POST",
+            "description": "En yakın bölümleri, sürüm ve puan elemesi yapılmadan döndürür.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"iade nakliye ücreti\",\n  \"limit\": 5\n}"
+            },
+            "url": "{{base_url}}/nlp/index/search"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Soru-Cevap",
+      "item": [
+        {
+          "name": "Soru sor (yeni sohbet)",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "const body = pm.response.json();",
+                  "if (body.conversation_id) {",
+                  "  pm.collectionVariables.set(\"conversation_id\", body.conversation_id);",
+                  "}"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "description": "Çakışan sürüm örneği: cevap güncel sürümden gelir, eski sürüm superseded_sources içinde görünür. Dönen conversation_id kaydedilir.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"Çamaşır makinesini kaç gün içinde iade edebilirim?\"\n}"
+            },
+            "url": "{{base_url}}/nlp/index/answer"
+          }
+        },
+        {
+          "name": "Devam sorusu (aynı sohbet)",
+          "request": {
+            "method": "POST",
+            "description": "Önceki istekten kaydedilen conversation_id ile aynı sohbete devam eder.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"Peki nakliye ücretini kim öder?\",\n  \"conversation_id\": \"{{conversation_id}}\"\n}"
+            },
+            "url": "{{base_url}}/nlp/index/answer"
+          }
+        },
+        {
+          "name": "Normal soru",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"E20 hata kodu ne anlama geliyor, ne yapmalıyım?\"\n}"
+            },
+            "url": "{{base_url}}/nlp/index/answer"
+          }
+        },
+        {
+          "name": "Cevaplanamayan soru",
+          "request": {
+            "method": "POST",
+            "description": "Belgelerde bulunmayan bir soru: answerable false döner.",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"Bulaşık makinesi satıyor musunuz?\"\n}"
+            },
+            "url": "{{base_url}}/nlp/index/answer"
+          }
+        }
+      ]
+    }
+  ]
+}

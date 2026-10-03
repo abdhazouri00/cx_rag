@@ -1,0 +1,23 @@
+## Garanti Süresi
+Tüm cx_wash çamaşır makineleri 3 yıl garantilidir. Motor için garanti süresi 10 yıldır. Garanti süresi fatura tarihinden itibaren başlar. Garantiden yararlanmak için fatura veya garanti belgesinin ibraz edilmesi gerekir. Garanti süresi içinde onarımda geçen süre garanti süresine eklenir.
+
+## Garanti Belgesi ve Ürün Kaydı
+Garanti belgesi, ürünle birlikte kutunun içinde basılı olarak verilir. Müşteri, ürününü web sitesindeki Ürün Kaydı sayfasından seri numarasıyla kaydedebilir. Ürün kaydı zorunlu değildir, ancak kayıtlı ürünlerde arıza kaydı oluştururken fatura bilgisi yeniden istenmez. Fatura kaybedilirse, kayıtlı ürünler için e-fatura kopyası çağrı merkezinden talep edilebilir.
+
+## Garanti Kapsamı
+Garanti, üretim ve malzeme hatalarından kaynaklanan arızaları kapsar. Garanti kapsamındaki onarımlarda parça, işçilik ve servis ziyareti için ücret alınmaz. Elektronik kart, pompa, kapak kilidi, rezistans ve amortisörler garanti kapsamındadır. Garanti kapsamında değiştirilen parçalar cx_wash'ın mülkiyetine geçer.
+
+## Garanti Dışı Durumlar
+Kullanım kılavuzuna aykırı kullanımdan kaynaklanan arızalar garanti kapsamı dışındadır. Yetkili servis dışındaki kişilerin yaptığı onarım veya kurulumdan doğan arızalar, voltaj dalgalanmasından kaynaklanan elektronik kart arızaları ve kireçlenmeye bağlı rezistans arızaları da garanti kapsamına girmez. Kapak camı ve dış gövdedeki çizik ve kırıklar, nakliye emniyet cıvataları takılmadan yapılan taşımadan doğan hasarlar ve yangın, su baskını gibi dış etkenlerden kaynaklanan hasarlar garanti dışıdır.
+
+## Garanti Kapsamında Onarım Süreci
+Garanti kapsamındaki bir arıza için önce arıza kaydı oluşturulur. Yetkili servis teknisyeni arızayı yerinde inceler ve arızanın garanti kapsamında olup olmadığını belirler. Arıza garanti kapsamındaysa onarım ücretsiz yapılır. Teknisyen arızanın garanti dışı olduğunu tespit ederse nedenini servis formuna yazar ve müşteriye ücretli onarım teklifi sunar. Müşteri bu tespite, çağrı merkezi üzerinden itiraz edebilir; itirazlar 5 iş günü içinde sonuçlandırılır.
+
+## Ürün Değişimi Hakkı
+Garanti süresi içinde aynı arıza dört kez tekrarlanırsa müşteri ürünün yenisiyle değiştirilmesini talep edebilir. Ayrıca onarım için gereken azami süre olan 20 iş günü aşılırsa müşteri ürün değişimi isteyebilir. Değişimde aynı model verilir; aynı model üretimden kalkmışsa eşdeğer veya bir üst model fark alınmadan verilir. Değiştirilen ürünün garanti süresi, ilk ürünün kalan garanti süresi kadardır.
+
+## Garantinin Devri
+Makine garanti süresi içinde başka bir kişiye satılır veya devredilirse garanti yeni sahibi için de geçerlidir. Yeni sahibin garantiden yararlanabilmesi için ilk faturanın aslını veya kopyasını ibraz etmesi yeterlidir. Devir için cx_wash'a bildirim yapılması zorunlu değildir. Ek garanti paketi de ürünle birlikte yeni sahibine geçer.
+
+## Ek Garanti Paketi
+Müşteriler, standart garantiye ek olarak 2 yıllık ek garanti paketi satın alabilir. Ek garanti paketi, ürünün fatura tarihinden sonraki ilk 90 gün içinde satın alınmalıdır. Paketin fiyatı 1.200 TL'dir. Ek garanti, standart garanti ile aynı kapsamı sunar ve standart garanti bittiğinde başlar. Ek garanti paketi mağazalardan, web sitesinden veya çağrı merkezinden satın alınabilir.

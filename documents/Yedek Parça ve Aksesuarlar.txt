@@ -1,0 +1,23 @@
+## Orijinal Yedek Parça Temini
+Orijinal cx_wash yedek parçaları yetkili servislerden ve web sitesindeki Yedek Parça bölümünden sipariş edilebilir. cx_wash, satışı sona eren modeller dahil tüm modeller için üretim tarihinden itibaren 10 yıl boyunca yedek parça bulundurur. Sipariş sırasında makinenin model adı ve seri numarası belirtilmelidir. Orijinal parçaların ambalajında cx_wash hologramı ve parça numarası bulunur.
+
+## Uyumluluk Kontrolü
+Yedek parçalar modele göre farklılık gösterir; bir modelin parçası başka bir modele uymayabilir. Web sitesinde seri numarası girildiğinde yalnızca o makineye uygun parçalar listelenir. Seri numarası, kapağın iç çerçevesindeki etikette yazar. Hangi parçanın gerektiğinden emin olmayan müşteriler, çağrı merkezinden ücretsiz olarak parça danışmanlığı alabilir. Yanlış sipariş edilen parçalar, iade koşullarına uygunsa değiştirilir.
+
+## Sık Değiştirilen Parçalar ve Fiyatları
+En sık değiştirilen parçalar ve fiyatları şöyledir: pompa filtresi 180 TL, su giriş hortumu 220 TL, gider hortumu 190 TL, tahrik kayışı 300 TL, kapak lastiği 650 TL ve kapak kilidi 480 TL. Fiyatlara montaj ücreti dahil değildir. Yıllık bakım yaptıran müşterilere bu fiyatlar üzerinden yüzde 10 indirim uygulanır. Elektronik kart ve motor gibi parçaların fiyatı modele göre değiştiği için çağrı merkezinden öğrenilmelidir.
+
+## Yedek Parça Teslimat Süresi
+Stokta bulunan yedek parçalar 3 iş günü içinde teslim edilir. Stokta bulunmayan parçalar üretim merkezinden getirtilir ve en geç 15 iş günü içinde teslim edilir. Web sitesinden verilen yedek parça siparişlerinde 500 TL ve üzeri alışverişlerde kargo ücretsizdir; daha düşük tutarlı siparişlerde 60 TL kargo ücreti alınır. Sipariş, kargoya verildiğinde müşteriye takip numarası SMS ile gönderilir.
+
+## Parça Montajı
+Pompa filtresi, su giriş hortumu ve gider hortumu gibi parçalar müşteri tarafından takılabilir. Kapak lastiği, kapak kilidi, kayış, pompa, rezistans, elektronik kart ve motor gibi parçaların yetkili servis tarafından takılması gerekir. Yetkili servisin parça montaj ücreti 250 TL'dir ve servis ziyaret ücretine ek olarak alınır. Garanti kapsamındaki onarımlarda montaj ücreti alınmaz.
+
+## Yedek Parça Garantisi
+Yetkili servis tarafından takılan orijinal yedek parçalar 1 yıl garantilidir. Müşterinin kendi taktığı veya yetkili olmayan bir servisin taktığı parçalar için garanti geçerli değildir. Parça garantisi, parçanın takıldığı tarihte düzenlenen servis formuyla belgelenir. Orijinal olmayan parçaların kullanılması, bu parçaların yol açtığı arızaları ürün garantisinin kapsamı dışına çıkarır.
+
+## Yedek Parça İadesi
+Web sitesinden satın alınan yedek parçalar, teslim tarihinden itibaren 7 gün içinde iade edilebilir. İade edilecek parçanın ambalajı açılmamış ve hologramı zarar görmemiş olmalıdır. Takılmış veya kullanılmış parçalar iade alınmaz. İade kargo ücreti müşteriye aittir; yanlış veya kusurlu gönderilen parçalarda kargo ücreti cx_wash tarafından karşılanır.
+
+## Aksesuarlar
+cx_wash üç aksesuar satar: titreşimi azaltan ayak pedi seti, çamaşır makinesinin üzerine kurutma makinesi yerleştirmek için kullanılan ara bağlantı aparatı ve 2 metrelik su giriş hortumu uzatması. Ayak pedi seti 240 TL, ara bağlantı aparatı 890 TL, hortum uzatması 310 TL'dir. Aksesuarlar mağazalardan ve web sitesinden satın alınabilir. Aksesuarların garanti süresi 2 yıldır.

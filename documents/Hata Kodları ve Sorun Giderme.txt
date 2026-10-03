@@ -1,0 +1,32 @@
+## E10 Su Alma Hatası
+E10 kodu, makinenin su alamadığını veya suyu çok yavaş aldığını gösterir. Önce su musluğunun açık olduğu, evde su kesintisi olmadığı ve su giriş hortumunun bükülmediği kontrol edilmelidir. Ardından musluk kapatılıp hortum sökülerek hortumun ucundaki süzgeç temizlenmelidir. Kontroller yapıldıktan sonra Başlat/Beklet tuşuna basılarak program sürdürülür. Sorun devam ederse arıza kaydı oluşturulmalıdır.
+
+## E20 Su Boşaltma Hatası
+E20 kodu, makinenin suyu boşaltamadığını gösterir. En sık nedeni tıkalı pompa filtresidir. Makinenin fişi çekildikten sonra pompa filtresi temizlenmeli ve gider hortumunun bükülmediği veya tıkanmadığı kontrol edilmelidir. Gider hortumunun ucu, yerden 100 santimetreden yükseğe bağlanmış olmamalıdır. Filtre temizlendikten sonra hata sürerse arıza kaydı oluşturulmalıdır.
+
+## E30 Kapak Kilidi Hatası
+E30 kodu, kapağın tam kapanmadığını veya kapak kilidinin çalışmadığını gösterir. Kapak ile lastik arasına çamaşır sıkışıp sıkışmadığı kontrol edilmeli ve kapak klik sesi gelene kadar bastırılarak kapatılmalıdır. Program bittikten sonra kapak kilidinin açılması yaklaşık 2 dakika sürer, bu süre içinde kapak zorlanmamalıdır. Elektrik kesintisinde kapak kilitli kalırsa elektrik geldikten sonra kilit kendiliğinden açılır.
+
+## E40 Motor Hatası
+E40 kodu, motor veya motor sürücü kartında bir sorun olduğunu gösterir. Bu hata görüldüğünde makine kapatılmalı, fişi prizden çekilmeli ve arıza kaydı oluşturulmalıdır. Kullanıcı makinenin arka kapağını açmamalı ve motora müdahale etmemelidir. E40 hatası yalnızca yetkili servis tarafından giderilebilir.
+
+## E50 Su Isıtma Hatası
+E50 kodu, suyun seçilen sıcaklığa ulaşamadığını gösterir. Bu hata genellikle rezistans veya sıcaklık sensörü arızasından kaynaklanır. Makine kapatılıp 5 dakika beklendikten sonra yeniden çalıştırılabilir. Hata tekrarlanırsa makine soğuk su programlarında kullanılmaya devam edilebilir, ancak en kısa sürede arıza kaydı oluşturulmalıdır. Kullanıcı rezistansa müdahale etmemelidir.
+
+## E60 Aşırı Köpük Uyarısı
+E60 kodu, tamburda fazla köpük oluştuğunu gösterir. Makine bu durumda programı bekletir ve köpüğü azaltmak için ek durulama yapar. En sık nedeni fazla deterjan kullanımı veya elde yıkama deterjanı kullanılmasıdır. Uyarı görüldüğünde yapılacak bir işlem yoktur; makine köpük azaldığında programa kendiliğinden devam eder. Sonraki yıkamalarda deterjan miktarı azaltılmalıdır.
+
+## Makine Çalışmıyor
+Makine hiç açılmıyorsa ve ekran yanmıyorsa önce fişin prize tam takıldığı ve prizde elektrik olduğu kontrol edilmelidir. Sigortanın atıp atmadığına bakılmalıdır. Ekran yanıyor ancak program başlamıyorsa kapağın tam kapalı olduğu, çocuk kilidinin açık olmadığı ve gecikmeli başlatmanın ayarlanmadığı kontrol edilmelidir. Bu kontrollerden sonra makine hala çalışmıyorsa arıza kaydı oluşturulmalıdır.
+
+## Aşırı Titreşim ve Ses
+Sıkma sırasında aşırı titreşim en çok üç nedenden kaynaklanır: çıkarılmamış nakliye emniyet cıvataları, dengesiz ayarlanmış ayaklar ve tamburdaki dengesiz yük. Önce nakliye cıvatalarının çıkarıldığı doğrulanmalı, sonra ayaklar makine sallanmayacak şekilde ayarlanıp somunları sıkılmalıdır. Tek parça ağır çamaşır yıkanıyorsa yanına birkaç parça daha eklenmelidir. Tamburdan gelen metalik ses, cepte unutulan bozuk para gibi cisimlerden kaynaklanabilir.
+
+## Su Sızıntısı
+Makinenin altında su görülürse makine hemen kapatılmalı, fişi prizden çekilmeli ve su musluğu kapatılmalıdır. Su giriş hortumunun iki ucundaki bağlantıların sıkı olduğu ve pompa filtresinin tam kapatıldığı kontrol edilmelidir. Deterjan çekmecesinden su taşıyorsa çekmece temizlenmeli ve deterjan miktarı azaltılmalıdır. Sızıntının kaynağı bulunamazsa makine kullanılmamalı ve arıza kaydı oluşturulmalıdır.
+
+## Kötü Koku
+Makineden gelen kötü koku genellikle düşük sıcaklıkta yapılan yıkamalar ve nemli kalan kapak lastiğinden kaynaklanır. Tambur boş olarak Tambur Temizleme programında çalıştırılmalı, kapak lastiği ve deterjan çekmecesi temizlenmelidir. Yıkamalardan sonra kapak açık bırakılmalıdır. Ayda en az bir kez 60 derece veya üzerinde bir yıkama yapılması koku oluşumunu önler.
+
+## Çamaşırlar Çok Islak Çıkıyor
+Çamaşırlar program sonunda çok ıslak çıkıyorsa sıkma devrinin düşük veya Sıkmasız seçilip seçilmediği kontrol edilmelidir. Tamburda tek ve ağır bir parça varsa makine dengeyi sağlayamadığı için sıkmayı düşük devirde yapar veya atlar. Bu durumda çamaşırlar elle dağıtılmalı ve yalnızca Sıkma programı çalıştırılmalıdır. Pompa filtresinin tıkalı olması da suyun tam boşalmasını engelleyebilir.

@@ -1,0 +1,26 @@
+## Teslimat Süresi
+Siparişler, sipariş onayından sonra büyükşehirlerde 3 iş günü, diğer illerde 7 iş günü içinde teslim edilir. Teslimat ücretsizdir. Teslimat günü ve saat aralığı, teslimattan bir gün önce SMS ile bildirilir. Teslimatlar pazartesiden cumartesiye 09:00 ile 18:00 saatleri arasında yapılır; pazar günleri teslimat yapılmaz. Hava koşulları veya yol kapanması gibi durumlarda teslimat gecikirse müşteri telefonla bilgilendirilir.
+
+## Teslimat Randevusunun Değiştirilmesi
+Müşteri, teslimat randevusunu SMS içindeki bağlantıdan bir kez ücretsiz olarak erteleyebilir. Erteleme, teslimat gününden en geç bir gün önce saat 17:00'ye kadar yapılmalıdır. İkinci ve sonraki ertelemelerde 150 TL yeniden planlama ücreti alınır. Müşteri randevu saatinde adreste bulunamazsa teslimat ekibi 15 dakika bekler ve müşteriyi telefonla arar; ulaşılamazsa teslimat yeniden planlanır.
+
+## Kata Taşıma
+Teslimat ekibi makineyi müşterinin göstereceği odaya kadar taşır. Asansörlü binalarda ve asansörsüz binalarda 5. kata kadar taşıma ücretsizdir. Asansörsüz binalarda 5. katın üzerindeki her kat için 100 TL taşıma ücreti alınır. Makinenin geçeceği kapı ve koridor genişliği en az 65 santimetre olmalıdır. Taşıma sırasında zeminin veya duvarların zarar görmemesi için ekip koruyucu örtü kullanır.
+
+## Teslimat Sırasında Kontrol
+Müşteri, ürünü teslim alırken ambalajı ve makinenin dış yüzeyini teslimat ekibinin yanında kontrol etmelidir. Hasar görülürse teslimat ekibiyle birlikte hasar tutanağı düzenlenmeli ve ürün teslim alınmamalıdır. Teslimattan sonra fark edilen nakliye hasarları en geç 48 saat içinde çağrı merkezine bildirilmelidir. Bildirim sırasında hasarın fotoğrafları istenir. Hasarlı ürün, cx_wash tarafından ücretsiz olarak yenisiyle değiştirilir.
+
+## Ücretsiz Kurulum Hizmeti
+İlk kurulum, cx_wash yetkili servisi tarafından ücretsiz yapılır. Kurulum, teslimattan sonraki 2 iş günü içinde gerçekleştirilir. Kurulum sırasında nakliye emniyet cıvataları çıkarılır, su ve gider bağlantıları yapılır, ayaklar dengelenir ve makine deneme programında çalıştırılır. Kurulum yaklaşık 45 dakika sürer. Yetkili servis dışında yapılan kurulumdan kaynaklanan arızalar garanti kapsamı dışındadır.
+
+## Kurulum Öncesi Hazırlık
+Kurulum yapılacak yerde topraklı bir priz, 3/4 inç soğuk su musluğu ve yerden 60 ile 100 santimetre yükseklikte bir gider bağlantısı bulunmalıdır. Zemin düz ve sağlam olmalıdır. Makinenin arkasında en az 5 santimetre boşluk bırakılmalıdır. Uzatma kablosu veya çoklu priz kullanılmamalıdır. Su musluğu veya priz bulunmuyorsa kurulum yapılamaz; bu durumda tesisat hazırlandıktan sonra kurulum için yeniden randevu alınmalıdır.
+
+## Kurulum Sonrası Bilgilendirme
+Kurulumu yapan teknisyen, müşteriye makinenin temel kullanımını gösterir. Teknisyen; program seçimini, deterjan çekmecesinin bölmelerini, çocuk kilidini ve pompa filtresinin yerini anlatır. Kurulum tamamlandığında müşteriye kurulum formu imzalatılır ve formun bir kopyası müşteriye bırakılır. Garanti süresi kurulum tarihinden değil, fatura tarihinden başlar.
+
+## Eski Makinenin Sökülmesi
+Kurulum ekibi, yeni makinenin kurulacağı yerdeki eski çamaşır makinesinin su ve gider bağlantılarını ücretsiz olarak söker. Eski makine, geri alım kampanyası kapsamında teslim edilmiyorsa müşterinin göstereceği aynı kattaki bir yere taşınır. Eski makinenin binadan çıkarılması veya başka bir adrese götürülmesi kurulum hizmetine dahil değildir.
+
+## Taşınma ve Yeniden Kurulum
+Müşteri başka bir adrese taşındığında makinenin yeniden kurulumu için yetkili servisten randevu alabilir. Yeniden kurulum ücreti 350 TL'dir. Taşıma öncesinde nakliye emniyet cıvataları yeniden takılmalı ve makinenin içinde kalan su pompa filtresinden boşaltılmalıdır. Cıvatalar takılmadan taşınan makinede oluşan hasarlar garanti kapsamı dışındadır.

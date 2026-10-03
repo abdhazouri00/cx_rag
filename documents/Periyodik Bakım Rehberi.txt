@@ -1,0 +1,29 @@
+## Bakım Takvimi
+Düzenli bakım, makinenin ömrünü uzatır ve arıza riskini azaltır. Kapak lastiği her yıkamadan sonra silinmelidir. Deterjan çekmecesi iki haftada bir, pompa filtresi ve tambur ayda bir temizlenmelidir. Kireç önleyici üç ayda bir, su giriş süzgeci ise altı ayda bir kontrol edilmelidir. Yetkili servis tarafından yapılan genel bakım yılda bir kez önerilir. Tüm bakım işlemlerinden önce makinenin fişi prizden çekilmelidir.
+
+## Pompa Filtresi Temizliği
+Pompa filtresi ayda bir kez temizlenmelidir. Temizlikten önce makinenin fişi prizden çekilmeli ve içindeki suyun soğuması beklenmelidir. Filtre, makinenin ön yüzünde sağ alt köşedeki kapağın arkasındadır. Kapağın altına bir kap konur, filtre saat yönünün tersine yavaşça çevrilir ve içerideki yaklaşık bir litre suyun akması beklenir. Filtre çıkarıldıktan sonra içindeki tüy, bozuk para ve yabancı cisimler temizlenir, filtre yuvası kontrol edilir ve filtre saat yönünde çevrilerek sıkıca takılır.
+
+## Deterjan Çekmecesi Temizliği
+Deterjan çekmecesi iki haftada bir temizlenmelidir. Çekmece, ortadaki mandala basılarak tamamen dışarı çıkarılır ve ılık su altında fırçayla yıkanır. Yumuşatıcı bölmesindeki sifon kapağı çıkarılarak ayrıca temizlenmelidir. Çekmecenin yuvasındaki deterjan kalıntıları da nemli bir bezle silinmelidir. Temizlenmeyen çekmecede küf ve kötü koku oluşur, deterjan tam olarak alınamaz.
+
+## Tambur Temizleme ve Kireç Önleme
+Tambur, ayda bir kez boş olarak Tambur Temizleme programında yıkanmalıdır. Bu program 90 derecede çalışır ve yaklaşık 1 saat 20 dakika sürer. Program sırasında deterjan yerine tambur temizleyici kullanılabilir. Suyun sert olduğu bölgelerde üç ayda bir kireç önleyici kullanılması önerilir. Kireç önleyici, ana yıkama bölmesine konur ve makine boş çalıştırılır. Çamaşır suyu ve sirke gibi maddeler lastik contalara zarar verebileceği için kullanılmamalıdır.
+
+## Kapak Lastiği Bakımı
+Her yıkamadan sonra kapak lastiğinin kıvrımları kuru bir bezle silinmelidir. Lastiğin içinde kalan su ve tüyler küf oluşumuna yol açar. Lastiğin kıvrımlarında saç tokası ve düğme gibi küçük cisimler kalıp kalmadığı kontrol edilmelidir. Yıkama bittikten sonra kapak ve deterjan çekmecesi bir süre açık bırakılarak makinenin içinin kuruması sağlanmalıdır.
+
+## Su Giriş Süzgeci Temizliği
+Su giriş hortumunun musluğa ve makineye bağlandığı iki uçta birer süzgeç bulunur. Bu süzgeçler altı ayda bir temizlenmelidir. Önce su musluğu kapatılır, hortum sökülür ve süzgeçler bir pense yardımıyla çıkarılarak akan su altında fırçalanır. Tıkalı süzgeç, makinenin su almasını yavaşlatır ve E10 hata koduna neden olabilir. Hortum takılırken contaların yerinde olduğu kontrol edilmelidir.
+
+## Dış Yüzey ve Kontrol Paneli Temizliği
+Makinenin dış yüzeyi ve kontrol paneli nemli, yumuşak bir bezle silinmelidir. Aşındırıcı temizlik maddeleri, tel sünger ve çözücüler kullanılmamalıdır. Kontrol paneline doğrudan su sıkılmamalıdır. Kapak camındaki kireç lekeleri, cam temizleyici ile silinebilir.
+
+## Uzun Süre Kullanılmayacaksa
+Makine bir aydan uzun süre kullanılmayacaksa fişi prizden çekilmeli ve su musluğu kapatılmalıdır. Pompa filtresinden içerideki su boşaltılmalıdır. Kapak ve deterjan çekmecesi aralık bırakılarak içeride nem ve koku oluşması önlenmelidir. Makine yeniden kullanılmadan önce boş olarak Tambur Temizleme programında çalıştırılmalıdır.
+
+## Donma Riskine Karşı Önlemler
+Makine, sıcaklığın sıfır derecenin altına düşebileceği balkon veya garaj gibi yerlerde bulunuyorsa içinde kalan su donarak hortumlara ve pompaya zarar verebilir. Bu durumda su musluğu kapatılmalı, su giriş hortumu sökülmeli ve pompa filtresinden kalan su boşaltılmalıdır. Donmuş bir makine, oda sıcaklığında en az 24 saat bekletilmeden çalıştırılmamalıdır. Donmadan kaynaklanan hasarlar garanti kapsamı dışındadır.
+
+## Yıllık Bakım Paketi
+cx_wash yetkili servisi, yılda bir kez yapılan Yıllık Bakım Paketi sunar. Paketin ücreti 600 TL'dir. Bakımda su giriş ve çıkış hortumları, kayış, amortisörler ve kapak kilidi kontrol edilir, pompa filtresi ve su giriş süzgeçleri temizlenir. Bakım yaklaşık bir saat sürer. Yıllık bakım yaptıran müşterilere yedek parça alımlarında yüzde 10 indirim uygulanır. Yıllık bakım randevusu çağrı merkezinden veya mobil uygulamadan alınabilir.

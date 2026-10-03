@@ -1,0 +1,29 @@
+## İade Süresi
+Müşteri, satın aldığı çamaşır makinesini teslim tarihinden itibaren 30 gün içinde iade edebilir. Süre, ürünün müşteriye teslim edildiği gün başlar; sipariş veya fatura tarihi dikkate alınmaz. Sürenin son günü pazar gününe veya resmi tatile denk gelirse süre bir sonraki iş gününe uzar. İade süresi geçtikten sonra yapılan talepler yalnızca üretim hatası bulunması halinde garanti kapsamında değerlendirilir.
+
+## İade Talebi Oluşturma
+İade talebi, çağrı merkezi veya web sitesindeki İade Talebi formu üzerinden oluşturulur. Talep sırasında sipariş numarası, makinenin seri numarası ve iade nedeni istenir. Talep oluşturulduğunda müşteriye SMS ile bir iade numarası gönderilir. Talep, en geç 2 iş günü içinde incelenir ve sonucu müşteriye telefonla veya e-posta ile bildirilir. Mağazadan satın alınan ürünler için iade talebi satın alınan mağazadan da oluşturulabilir.
+
+## İade Koşulları
+İade edilecek ürün kullanılmamış olmalı ve orijinal ambalajı, aksesuarları, kullanım kılavuzu ve faturası ile birlikte teslim edilmelidir. Kurulumu yapılmış ve kullanılmış ürünler, üretim hatası bulunmadıkça iade alınmaz. Kampanya kapsamında verilen hediye ürünler de iade ile birlikte geri gönderilmelidir. Eski makine geri alım kampanyasından yararlanılmışsa, 1.500 TL tutarındaki indirim iade edilecek tutardan düşülmez; ancak teslim edilen eski makine geri verilmez.
+
+## İade Edilemeyen Durumlar
+Müşteri kaynaklı çizik, ezik veya kırık bulunan ürünler iade alınmaz. Seri numarası etiketi sökülmüş veya okunmaz hale gelmiş ürünler iade edilemez. Orijinal ambalajı bulunmayan ürünlerin iadesi kabul edilmez. Ek garanti paketi, ürün iade edildiğinde kendiliğinden iptal edilir ve bedeli ürün bedeliyle birlikte iade edilir.
+
+## İade Nakliye Ücreti
+İade edilen ürünün nakliyesi ücretsizdir. Ürün, cx_wash ile anlaşmalı nakliye firması tarafından müşterinin adresinden alınır ve müşteriden nakliye bedeli talep edilmez. Üretim hatası nedeniyle yapılan iadelerde de nakliye ücreti alınmaz. Müşteri ürünü kendi imkanlarıyla gönderirse nakliye sırasında oluşan hasarlardan cx_wash sorumlu değildir.
+
+## Ürünün Teslim Alınması
+İade talebi onaylandıktan sonra nakliye firması müşteriyi arayarak ürünün alınacağı günü belirler. Ürün, onaydan sonraki 3 iş günü içinde adresten alınır. Ürün teslim edilirken nakliye görevlisi bir teslim tutanağı düzenler ve bir kopyasını müşteriye bırakır. Makine teslim edilmeden önce su ve gider bağlantıları sökülmüş ve nakliye emniyet cıvataları takılmış olmalıdır.
+
+## Ücret İadesi Süresi
+Ürün bedeli, iade edilen ürün cx_wash deposuna ulaşıp kontrol edildikten sonra 5 iş günü içinde iade edilir. İade, ödemenin yapıldığı yönteme göre kredi kartına veya banka hesabına yapılır. Taksitli alışverişlerde iade, bankanın uygulamasına göre taksitler halinde karta yansıyabilir. Ücret iadesi yapıldığında müşteriye e-posta ile bilgi verilir.
+
+## Hasarlı veya Kusurlu Ürün
+Teslimatta hasarlı olduğu görülen veya ilk kullanımda üretim hatası tespit edilen ürünler için müşteri iade veya ücretsiz değişim talep edebilir. Bu durumda ürünün kullanılmış veya kurulumu yapılmış olması iadeye engel değildir. Üretim hatası, yetkili servis teknisyeninin düzenleyeceği servis formuyla belgelenmelidir. Hasarlı ürün bildirimleri teslimattan sonraki 48 saat içinde yapılmalıdır.
+
+## Değişim
+Müşteri, iade süresi içinde ürünü başka bir cx_wash modeliyle değiştirebilir. Yeni model daha pahalıysa aradaki fark müşteriden tahsil edilir, daha ucuzsa aradaki fark müşteriye iade edilir. Değişim için iade koşulları geçerlidir. Değişim yapılan yeni ürünün garanti süresi, yeni ürünün fatura tarihinden başlar. Bir sipariş için yalnızca bir kez değişim yapılabilir.
+
+## İade Sürecinin Takibi
+Müşteri, iade talebinin durumunu web sitesindeki Siparişlerim sayfasından veya iade numarasıyla çağrı merkezinden takip edebilir. İade süreci dört aşamadan oluşur: talep alındı, talep onaylandı, ürün teslim alındı ve ücret iade edildi. Her aşama değiştiğinde müşteriye SMS gönderilir.

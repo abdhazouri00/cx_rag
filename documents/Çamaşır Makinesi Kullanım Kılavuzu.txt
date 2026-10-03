@@ -1,0 +1,32 @@
+## İlk Kullanım
+Makineyi ilk kez çalıştırmadan önce arka paneldeki dört adet nakliye emniyet cıvatası mutlaka çıkarılmalıdır. Cıvatalar çıkarılmadan çalıştırılan makine aşırı titreşim yapar ve hasar görebilir. Çıkarılan cıvatalar, makine ileride taşınırken yeniden takılmak üzere saklanmalıdır. Cıvata delikleri, makineyle birlikte verilen plastik kapaklarla kapatılır. İlk yıkama, tambur boşken ve az miktarda deterjanla 90 derecede Pamuklu programında yapılmalıdır. Bu işlem üretimden kalan artıkları ve test suyunu temizler. İlk yıkamadan sonra kapak açık bırakılarak tamburun kuruması beklenmelidir.
+
+## Kontrol Paneli ve Ekran
+Kontrol panelinde solda program seçme düğmesi, ortada dijital ekran, sağda ise Sıcaklık, Devir, Gecikme ve Başlat/Beklet tuşları bulunur. Makine, program düğmesi Kapalı konumundan herhangi bir programa çevrildiğinde açılır. Ekranda seçilen programın kalan süresi, sıcaklığı ve sıkma devri gösterilir. Program başladıktan sonra ayar değiştirmek için önce Başlat/Beklet tuşuna basılarak makine bekletilmelidir. Program bittiğinde ekranda End yazısı görünür ve makine üç kez sesli uyarı verir. Sesli uyarıyı kapatmak için Gecikme tuşuna 3 saniye basılır.
+
+## Yıkama Programları
+cx_wash çamaşır makinelerinde beş temel program bulunur. Pamuklu programı 40 ile 90 derece arasında çalışır ve yaklaşık 2 saat 30 dakika sürer; havlu, nevresim ve dayanıklı pamuklu çamaşırlar için uygundur. Sentetik programı 40 derecede yaklaşık 1 saat 45 dakika sürer. Hızlı 15 programı 15 dakika sürer ve en fazla 2 kilogram az kirli çamaşır için uygundur. Yünlü programı 30 derecede hassas yıkama yapar ve tambur çok yavaş döner. Eko 40-60 programı en az enerji tüketen programdır ve yaklaşık 3 saat 20 dakika sürer. Program süreleri, çamaşır miktarına ve su basıncına göre birkaç dakika değişebilir.
+
+## Sıcaklık ve Devir Seçimi
+Her programın varsayılan bir sıcaklığı ve sıkma devri vardır, ancak bunlar Sıcaklık ve Devir tuşlarıyla değiştirilebilir. Sıcaklık soğuk, 20, 30, 40, 60 ve 90 derece olarak ayarlanabilir. En yüksek sıkma devri CX-7000 modelinde 1200, CX-9000 modelinde 1400, CX-9000 Pro modelinde 1600 devirdir. Yünlü programında sıkma devri en fazla 800 devir olarak seçilebilir. Devir tuşuyla Sıkmasız seçeneği seçilirse makine suyu boşaltır ancak sıkma yapmaz. Hassas ve kolay kırışan kumaşlar için düşük devir önerilir.
+
+## Kapasite ve Yükleme
+CX-7000 modelinin yıkama kapasitesi 7 kilogram, CX-9000 modelinin 9 kilogram, CX-9000 Pro modelinin ise 10 kilogramdır. Bu değerler kuru pamuklu çamaşır için geçerlidir. Tambur, çamaşırlar sıkıştırılmadan doldurulmalı ve tamburun üst kısmında bir el genişliğinde boşluk kalmalıdır. Sentetik programında kapasitenin yarısı, yünlü ve hassas programlarda ise en fazla 2 kilogram çamaşır yüklenmelidir. Aşırı yükleme yıkama kalitesini düşürür, deterjanın iyi durulanmamasına ve makinenin dengesiz çalışmasına neden olur.
+
+## Çamaşırların Hazırlanması
+Çamaşırlar yıkamadan önce renklerine, kumaş türüne ve etiketlerindeki yıkama talimatına göre ayrılmalıdır. Ceplerdeki bozuk para, anahtar ve kağıt mendil gibi cisimler çıkarılmalıdır; bu cisimler pompa filtresini tıkayabilir. Fermuarlar kapatılmalı, düğmeler iliklenmeli ve balenli iç çamaşırları yıkama filesine konmalıdır. Yeni alınan koyu renkli çamaşırlar ilk birkaç yıkamada ayrı yıkanmalıdır. Çok kirli iş giysileri diğer çamaşırlardan ayrı ve ön yıkamalı olarak yıkanmalıdır.
+
+## Deterjan ve Yumuşatıcı Kullanımı
+Deterjan çekmecesinde üç bölme vardır. I numaralı bölme ön yıkama deterjanı, II numaralı bölme ana yıkama deterjanı, çiçek işaretli bölme ise yumuşatıcı içindir. Sıvı deterjan yalnızca ana yıkama bölmesinde kullanılmalı ve gecikmeli başlatma ile birlikte kullanılmamalıdır. Yumuşatıcı, bölmedeki MAX çizgisini aşmamalıdır. Elde yıkama deterjanları fazla köpürdüğü için makinede kullanılmamalıdır. Deterjan miktarı, ambalajındaki tabloya ve suyun sertliğine göre ayarlanmalıdır; fazla deterjan aşırı köpüğe ve kötü durulamaya yol açar.
+
+## Gecikmeli Başlatma
+Gecikmeli başlatma özelliği, programın 1 ile 24 saat arasında ertelenmesini sağlar. Program seçildikten sonra Gecikme tuşuna her basışta süre 1 saat artar. Süre ayarlandıktan sonra Başlat/Beklet tuşuna basılır ve ekranda geri sayım başlar. Gecikmeyi iptal etmek için süre sıfıra getirilir veya program düğmesi Kapalı konumuna çevrilir. Gecikmeli başlatmada toz deterjan kullanılması önerilir.
+
+## Buhar Fonksiyonu
+Buhar fonksiyonu yalnızca CX-9000 Pro modelinde bulunur. Buhar, Pamuklu ve Sentetik programlarıyla birlikte seçilebilir ve program süresini yaklaşık 20 dakika uzatır. Buhar, çamaşırlardaki kırışıklıkları azaltır ve ütülemeyi kolaylaştırır. Ayrıca Buharla Tazeleme programı, kirli olmayan ancak koku sinmiş en fazla 1 kilogram çamaşırı 25 dakikada su kullanmadan tazeler. Yünlü ve deri içeren giysilerde buhar kullanılmamalıdır.
+
+## Çocuk Kilidi
+Çocuk kilidini açmak veya kapatmak için Sıcaklık ve Devir tuşlarına aynı anda 3 saniye basılır. Kilit açıkken ekranda anahtar simgesi görünür ve program bitene kadar tuşlar ile program düğmesi çalışmaz. Program bittiğinde çocuk kilidi kendiliğinden kapanmaz, aynı tuş birleşimiyle kapatılmalıdır. Elektrik kesilip geri geldiğinde çocuk kilidi açık kalmaya devam eder.
+
+## Enerji ve Su Tasarrufu
+Enerji tüketiminin büyük bölümü suyun ısıtılmasından kaynaklanır, bu nedenle az kirli çamaşırlar 30 veya 40 derecede yıkanmalıdır. Eko 40-60 programı, uzun sürmesine rağmen en az enerji ve su harcayan programdır. Makine tam kapasiteyle çalıştırıldığında çamaşır başına tüketim en düşük seviyeye iner. Ön yıkama yalnızca çok kirli çamaşırlarda kullanılmalıdır. Yüksek sıkma devri, çamaşırların daha az nemli çıkmasını ve kuruma süresinin kısalmasını sağlar.

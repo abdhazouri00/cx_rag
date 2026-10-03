@@ -1,0 +1,29 @@
+## Arıza Kaydı Oluşturma
+Arıza kaydı üç yoldan oluşturulabilir: 0850 000 00 00 numaralı çağrı merkezi, web sitesindeki Servis Talebi formu ve cx_wash mobil uygulaması. Kayıt sırasında makinenin seri numarası, fatura tarihi ve ekranda görünen hata kodu istenir. Seri numarası, kapağın iç çerçevesindeki etikette yazar. Kayıt oluşturulduğunda müşteriye SMS ile bir kayıt numarası gönderilir; sonraki tüm görüşmelerde bu numara kullanılır.
+
+## Çağrı Merkezi Çalışma Saatleri
+Çağrı merkezi pazartesiden cumartesiye 09:00 ile 19:00 saatleri arasında hizmet verir. Pazar günleri ve resmi tatillerde çağrı merkezi kapalıdır. Web sitesindeki Servis Talebi formu ve mobil uygulama üzerinden haftanın her günü 24 saat arıza kaydı bırakılabilir. Çalışma saatleri dışında bırakılan kayıtlar, bir sonraki iş gününün ilk saatlerinde işleme alınır.
+
+## Telefonla Ön Teşhis
+Arıza kaydı oluşturulurken müşteri temsilcisi, sorunun telefonla çözülüp çözülemeyeceğini anlamak için kısa bir ön teşhis yapar. Ön teşhis yaklaşık 10 dakika sürer ve ücretsizdir. Temsilci; hata kodunu, pompa filtresinin durumunu ve su ile elektrik bağlantılarını sorar. Sorun telefonla çözülürse servis ziyareti planlanmaz. Sorun çözülmezse kayıt, yetkili servise aktarılır.
+
+## Servis Randevusu ve Müdahale Süresi
+Arıza kaydı oluşturulduktan sonra müşteri en geç 24 saat içinde aranarak servis randevusu verilir. Yetkili servis, kayıt tarihinden itibaren en geç 48 saat içinde adrese gelir. Randevu saatinden önce teknisyen müşteriyi telefonla arar. Müşteri adreste bulunamazsa randevu bir kez ücretsiz yenilenir. Servis ziyaretleri pazartesiden cumartesiye 09:00 ile 18:00 saatleri arasında yapılır.
+
+## Servis Ziyaretine Hazırlık
+Servis ziyaretinden önce makinenin çevresi boşaltılmalı ve tamburdaki çamaşırlar çıkarılmalıdır. Fatura veya garanti belgesi hazır bulundurulmalıdır. Teknisyenin makineye rahat ulaşabilmesi için makinenin üzerindeki eşyalar kaldırılmalıdır. Ziyaret sırasında adreste 18 yaşından büyük bir kişinin bulunması gerekir.
+
+## Teknisyen Kimlik Doğrulama
+cx_wash yetkili servis teknisyenleri, fotoğraflı kimlik kartı taşır ve cx_wash logolu iş kıyafeti giyer. Müşteri, teknisyenin adını ve kayıt numarasını randevudan önce gönderilen SMS'teki bilgilerle karşılaştırabilir. Kimlik kartı göstermeyen kişiler eve alınmamalı ve durum çağrı merkezine bildirilmelidir. Teknisyenler, servis formunda yazan tutarın dışında ücret talep edemez.
+
+## Servis Ücretleri
+Garanti kapsamındaki arızalarda servis ücreti alınmaz. Garanti süresi dolmuş veya garanti dışı durumlarda servis ziyaret ücreti 450 TL'dir ve parça ücreti ayrıca eklenir. Teknisyen, onarıma başlamadan önce toplam ücreti müşteriye bildirir ve müşterinin onayı olmadan işlem yapılmaz. Müşteri onarımı kabul etmezse yalnızca servis ziyaret ücreti alınır. Ödeme, teknisyene kredi kartı veya banka kartı ile yapılabilir.
+
+## Onarım Süresi
+Arızalı makinenin onarımı en geç 20 iş günü içinde tamamlanır. Onarım 10 iş gününü aşarsa müşteriye onarım bitene kadar ücretsiz geçici bir çamaşır makinesi verilir. Onarımların çoğu ilk ziyarette yerinde tamamlanır; parça beklenmesi gereken durumlarda ikinci bir ziyaret planlanır. Onarım tamamlandığında müşteriye yapılan işlemleri ve değiştirilen parçaları gösteren servis formu teslim edilir.
+
+## Onarım Garantisi
+Yetkili servis tarafından yapılan ücretli onarımlar 6 ay garantilidir. Aynı arıza 6 ay içinde tekrarlanırsa onarım ücretsiz olarak yeniden yapılır. Onarım garantisi yalnızca onarılan arızayı kapsar; farklı bir arıza için yeni bir servis kaydı açılır.
+
+## Şikayet ve Memnuniyet
+Servis ziyaretinden sonra müşteriye SMS ile kısa bir memnuniyet anketi gönderilir. Servis hizmetinden memnun kalmayan müşteri, çağrı merkezi veya web sitesindeki Şikayet formu üzerinden şikayet oluşturabilir. Şikayetler en geç 3 iş günü içinde yanıtlanır. Şikayet sonucunda hizmetin eksik verildiği tespit edilirse servis ziyareti ücretsiz olarak tekrarlanır.
