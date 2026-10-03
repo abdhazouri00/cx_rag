@@ -32,6 +32,8 @@ Kurgusal çamaşır makinesi şirketi **cx_wash**'ın müşteri destek ekibi iç
 ├── docker-compose.yml               Tüm servisler
 ├── .env.example                     Örnek ortam değişkenleri
 ├── cx_rag.postman_collection.json   Postman koleksiyonu
+├── DEGERLENDIRME.pdf / .md          Değerlendirme raporu (beklenen ve gerçekleşen sonuçlar)
+├── evaluation/                      Değerlendirme soruları, betikleri ve ham API yanıtları
 ├── documents/                       Bilgi belgeleri (eski_surum/ içinde eski iade politikası)
 ├── src/                             Backend
 │   ├── routes/                      API uç noktaları
@@ -107,6 +109,22 @@ Sürüm yükleme sırasına göre belirlendiği için sıra önemlidir:
 3. **Split documents**, ardından **Index chunks** düğmesine basın.
 4. **Ask** sekmesinden soru sorun.
 
+Aynı işlem tek komutla da yapılabilir (belgeleri doğru sırayla yükler, böler ve dizine ekler):
+
+```bash
+python evaluation/load_documents.py
+```
+
+## Değerlendirme
+
+17 örnek soru (normal, çakışan sürüm, sohbet ve cevaplanamaz) çalışan API'ye gönderildi ve beklenen sonuçlarla karşılaştırıldı: **17 sorudan 16'sı beklenen sonucu verdi.** Her sorunun beklenen ve gerçekleşen sonucu, kullanılan kaynaklar ve elenen eski sürümler [DEGERLENDIRME.pdf](DEGERLENDIRME.pdf) dosyasındadır (aynı içerik metin olarak [DEGERLENDIRME.md](DEGERLENDIRME.md) içinde); ham API yanıtları `evaluation/sonuclar.json` içindedir.
+
+Raporu yeniden üretmek için (belgeler yüklendikten sonra):
+
+```bash
+python evaluation/run_evaluation.py
+```
+
 ## Yaklaşım
 
 - **Bölümleme:** Belgeler `## ` başlıklarından bölünür; başlık yoksa yaklaşık 500 karakterlik parçalar kullanılır. Böylece cevapta bölüm adı gösterilebilir.
@@ -120,5 +138,5 @@ Sürüm yükleme sırasına göre belirlendiği için sıra önemlidir:
 - Sürüm seçimi yalnızca aramadan dönen bölümleri karşılaştırır ve yükleme sırasına bağlıdır.
 - Belge silme veya güncelleme uç noktası yoktur; aynı dosya iki kez yüklenirse iki kopya oluşur.
 - Dizinleme istek içinde çalışır; arka plan işçisi yoktur.
-- Konu dışı bir sorudan sonraki devam sorusu daha zayıf sonuç getirebilir.
+- Devam sorularında arama, önceki soru ile yeni sorunun birleşimiyle yapılır; önceki soru ağır basarsa ilgili bölüm ilk 5 sonuca giremeyebilir ve soru reddedilir (değerlendirmedeki 12. soru).
 - `RAG_MIN_SCORE` deneme ile seçilmiştir; farklı bir gömme modelinde yeniden ayarlanmalıdır.
